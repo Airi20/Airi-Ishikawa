@@ -2,6 +2,12 @@
 A Java-based app that calculates forces in 2D truss structures and visualizes them with color-coded diagrams. Built with Swing, powered by math. 
 
 **Note**: The UI and code comments are written in **Japanese**.  
+⚠️ **This project is currently incomplete.**
+
+It is in the testing phase, so usage and structure may change as development continues.
+
+Please use with caution.
+
 
 <p align="center">
   <img src="screenshot1.png" alt="TrussForce Screenshot 1" width="600"/>
