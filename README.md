@@ -5,10 +5,11 @@ A Java-based app that calculates forces in 2D truss structures and visualizes th
 日本語を前提としたソフトウェアです。ご了承ください。
 
 <p align="center">
-  <img src="screenshots/TrussForce%20Screenshot%201.png" alt="TrussForce Screenshot 1" width="600"/>
+  <img src="screenshots/screenshot1.png" alt="TrussForce Screenshot 1" width="600"/>
   <br/>
-  <img src="screenshots/TrussForce%20Screenshot%202.png" alt="TrussForce Screenshot 2" width="600"/>
+  <img src="screenshots/screenshot2.png" alt="TrussForce Screenshot 2" width="600"/>
 </p>
+
 
 # TrussForce
 **TrussForce** is a Java-based application that allows users to automatically compute the internal forces of 2D truss structures. It provides an intuitive UI for inputting node coordinates, member connections, and support conditions (pin, roller with x/y constraints), and visualizes the calculated truss diagram.
