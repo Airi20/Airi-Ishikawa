@@ -45,7 +45,7 @@ Please use with caution.
 
 Make sure you have Java installed. Then run:
 
-java -jar TrussForce.jar
+java -jar TrussForceApp.jar
 
 ---
 ## 🌐 Language
