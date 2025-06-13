@@ -48,6 +48,7 @@ Make sure you have Java installed. Then run:
 ```bash
 java -jar TrussForce.jar
 
+---
 ## 🌐 Language
 
 - This application is primarily written in **Japanese**, including:
