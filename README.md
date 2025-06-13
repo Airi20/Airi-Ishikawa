@@ -19,7 +19,8 @@ A Java-based app that calculates forces in 2D truss structures and visualizes th
   - Node coordinates
   - Member definitions
   - Support conditions (pin/roller supports with x/y constraints)
-- Load application per node
+  - **Loads applied at each node (X and Y directions)**  
+    *Note: For Y-direction loads, please enter downward loads as negative values.*
 - Automatic calculation of:
   - Reaction forces
   - Internal member forces
