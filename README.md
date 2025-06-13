@@ -6,19 +6,9 @@ A Java-based app that calculates forces in 2D truss structures and visualizes th
 ⚠️ **This project is currently incomplete.**
 
 It is in the testing phase, so usage and structure may change as development continues.
-
-⚠️ **This project is currently incomplete.**
-
-It is in the testing phase, so usage and structure may change as development continues.
+The folder structure is currently messy and may be reorganized in the future.
 
 Please use with caution.
-
----
-
-**Note:** The folder structure is currently messy and may be reorganized in the future.
-
-Please use with caution.
-
 
 <p align="center">
   <img src="screenshot1.png" alt="TrussForce Screenshot 1" width="600"/>
