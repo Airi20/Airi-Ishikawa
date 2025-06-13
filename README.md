@@ -44,7 +44,7 @@ Please use with caution.
 ## ▶️ How to Run
 
 Make sure you have Java installed. Then run:
-```bash
+
 java -jar TrussForce.jar
 
 ---
