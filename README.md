@@ -5,9 +5,9 @@ A Java-based app that calculates forces in 2D truss structures and visualizes th
 日本語を前提としたソフトウェアです。ご了承ください。
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" alt="TrussForce Screenshot 1" width="600"/>
+  <img src="screenshot1.png" alt="TrussForce Screenshot 1" width="600"/>
   <br/>
-  <img src="screenshots/screenshot2.png" alt="TrussForce Screenshot 2" width="600"/>
+  <img src="screenshot2.png" alt="TrussForce Screenshot 2" width="600"/>
 </p>
 
 
