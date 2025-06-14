@@ -1,4 +1,4 @@
-# Truss Force Calc
+# Truss-Force-Calc
 
 An application that automatically computes and visualizes internal forces in truss structures.
 
