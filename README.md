@@ -14,7 +14,7 @@
 
 ## About This Project
 
-This **Java-based truss analysis software** calculates internal forces such as **axial forces, tension, and compression** in 2D truss members. The app features an intuitive **Swing GUI** where users can input **node coordinates**, **member connections**, **support conditions** (including pin and roller supports), and **applied loads** in both X and Y directions.
+This **Java-based truss analysis software** calculates internal forces such as **tension and compression** in 2D truss members. The app features an intuitive **Swing GUI** where users can input **node coordinates**, **member connections**, **support conditions** (including pin and roller supports), and **applied loads** in both X and Y directions.
 
 It then **automatically computes reaction forces and member forces** using **equilibrium equations** solved by a custom-built solver with **Gaussian elimination**. The results are visualized with **color-coded truss diagrams**:
 
@@ -50,7 +50,6 @@ Make sure you have Java installed, then run:
 
 ```bash
 java -jar TrussForceApp.jar
-
 
 ```
 ---
