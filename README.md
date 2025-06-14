@@ -1,4 +1,4 @@
-# Airi-Ishikawa
+# An application that automatically computes and visualizes internal forces in truss structures.
 A Java-based app that calculates forces in 2D truss structures and visualizes them with color-coded diagrams. Built with Swing, powered by math. 
 
 **Note**: The UI and code comments are written in **Japanese**.  
