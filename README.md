@@ -4,8 +4,6 @@
 
 ---
 
----
-
 <p align="center">
   <img src="screenshot1.png" alt="TrussForce Screenshot 1" width="600"/>
   <br/>
