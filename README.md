@@ -52,6 +52,7 @@ Make sure you have Java installed. Then run:
 ```bash
 java -jar TrussForceApp.jar
 
+```
 ---
 ## 🌐 Language
 
