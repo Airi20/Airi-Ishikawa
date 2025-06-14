@@ -56,7 +56,10 @@ java -jar TrussForceApp.jar
 
 > Note: Japanese language proficiency is recommended to use or modify this software.
 
-/*
+## Feedback / Questions 💬  
+Have any suggestions, questions, or found a bug?  
+[Click here to open an issue](https://github.com/Airi20/Truss-Force-Calc/issues/new?title=Feedback&body=Feel+free+to+write+your+thoughts+below%21+%F0%9F%91%87) — I’d love to hear from you!
+
  * TrussForce © 2025 Airi
  * All rights reserved.
  * Unauthorized use, copying, modification, or distribution of this code is strictly prohibited.
