@@ -56,3 +56,8 @@ java -jar TrussForceApp.jar
 
 > Note: Japanese language proficiency is recommended to use or modify this software.
 
+/*
+ * TrussForce © 2025 Airi
+ * All rights reserved.
+ * Unauthorized use, copying, modification, or distribution of this code is strictly prohibited.
+ */
