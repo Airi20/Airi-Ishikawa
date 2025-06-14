@@ -1,56 +1,48 @@
 # TrussMemberForceCalc
 
-An application that automatically computes and visualizes internal forces in truss structures.
+**Truss Member Force Calculation Tool** — An easy-to-use Java application that automatically computes and visualizes internal forces in 2D truss structures.
 
 ---
 
-A Java-based app that calculates forces in 2D truss structures and visualizes them with color-coded diagrams. Built with Swing, powered by math.
+## About This Project
 
-**Note**: The UI and code comments are written in **Japanese**.  
+This **Java-based truss analysis software** calculates internal forces such as **axial forces, tension, and compression** in 2D truss members. The app features an intuitive **Swing GUI** where users can input **node coordinates**, **member connections**, **support conditions** (including pin and roller supports), and **applied loads** in both X and Y directions.
 
-⚠️ **This project is currently incomplete.**<br>
-It is in the testing phase, so usage and structure may change as development continues.<br>
-The folder structure is currently messy and may be reorganized in the future.<br>
-Please use with caution.
+It then **automatically computes reaction forces and member forces** using **equilibrium equations** solved by a custom-built solver with **Gaussian elimination**. The results are visualized with **color-coded truss diagrams**:
 
-<p align="center">
-  <img src="screenshot1.png" alt="TrussForce Screenshot 1" width="600"/><br/>
-  <img src="screenshot2.png" alt="TrussForce Screenshot 2" width="600"/>
-</p>
+- 🔵 Blue indicates **compression** forces (negative)
+- 🔴 Red indicates **tension** forces (positive)
 
-# TrussForce
+---
 
-**TrussForce** is a Java-based application that allows users to automatically compute the internal forces of 2D truss structures. It provides an intuitive UI for inputting node coordinates, member connections, and support conditions (pin, roller with x/y constraints), and visualizes the calculated truss diagram.
+## Features
 
-## 🧠 Features
-
-- GUI-based input for:
-  - Node coordinates
-  - Member definitions
-  - Support conditions (pin/roller supports with x/y constraints)
-  - **Loads applied at each node (X and Y directions)**  
-    *Note: For Y-direction loads, please enter downward loads as negative values.*
-  
+- GUI for inputting:
+  - Node coordinates and member connectivity
+  - Support types (pin, roller with x/y constraints)
+  - Loads applied at each node (X/Y directions)
 - Automatic calculation of:
-  - Reaction forces
-  - Internal member forces
+  - Reaction forces at supports
+  - Internal forces of each truss member
+- Visual representation of forces in the truss diagram
 
-- Truss diagram visualization with color-coded members:  
-  🔵 **Blue** for compression (negative)  
-  🔴 **Red** for tension (positive)
+---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-- Language: **Java**  
-- GUI: **Swing**  
-- Math: Custom-built solver using equilibrium equations and Gaussian elimination
+- Language: **Java**
+- GUI Framework: **Swing**
+- Solver: Custom linear equation solver (Gaussian elimination)
 
-## ▶️ How to Run
+---
 
-Make sure you have Java installed. Then run:
+## How to Run
+
+Make sure you have Java installed, then run:
 
 ```bash
 java -jar TrussForceApp.jar
+
 
 ```
 ---
