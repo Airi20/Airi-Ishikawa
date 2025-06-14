@@ -4,6 +4,16 @@
 
 ---
 
+---
+
+<p align="center">
+  <img src="screenshot1.png" alt="TrussForce Screenshot 1" width="600"/>
+  <br/>
+  <img src="screenshot2.png" alt="TrussForce Screenshot 2" width="600"/>
+</p>
+
+---
+
 ## About This Project
 
 This **Java-based truss analysis software** calculates internal forces such as **axial forces, tension, and compression** in 2D truss members. The app features an intuitive **Swing GUI** where users can input **node coordinates**, **member connections**, **support conditions** (including pin and roller supports), and **applied loads** in both X and Y directions.
